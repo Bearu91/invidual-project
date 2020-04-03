@@ -1,20 +1,20 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    list-style: none;
-    text-decoration: none;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
   
-  body {
-    background: $back-color;
-  }
+body {
+  background: $back-color;
+}
   
-  .wrapper {
-    display: flex;
-    position: relative;
-  }
+.wrapper {
+  display: flex;
+  position: relative;
+}
   
-  section {
-    justify-content: center;
-  }
+section {
+  justify-content: center;
+}
