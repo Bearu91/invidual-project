@@ -1,1 +1,1 @@
-# invidual-project
+https://bearu91.github.io/invidual-project/
